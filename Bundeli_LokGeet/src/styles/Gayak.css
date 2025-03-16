@@ -1,0 +1,15 @@
+@import url(app.css);
+
+.Gayak {
+  margin-bottom: 5rem;
+}
+
+.Gayak-card-container {
+  display: flex;
+  flex-wrap: wrap;
+  /* justify-content: space-evenly; */
+  /* justify-content: space-between; */
+  justify-content: center;
+  gap: 3rem;
+  width: 100%;
+}
